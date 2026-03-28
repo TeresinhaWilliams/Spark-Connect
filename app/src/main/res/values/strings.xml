@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SparkConnect</string>
+    <string name="social_spark">Social Spark</string>
+    <string name="get_my_social_spark">Get My Social Spark! 🚀</string>
+    <string name="spark_connect">✨ Spark Connect</string>
+    <string name="enter_time_e_g_morning">🕒 Enter time (e.g. Morning)</string>
+    <string name="stay_connected_always">Stay Connected, Always.</string>
+    <string name="reset">Reset 🧹</string>
+    <string name="your_spark_suggestion">YOUR SPARK SUGGESTION</string>
+    <string name="type_a_time_above_to_start">Type a time above to start! 👋</string>
+    <string name="social_connect">💕Social Connect ✨</string>
+    <string name="type_morning_afternoon">Type: Morning, Afternoon...</string>
+    <string name="get_spark">Get Spark 💫</string>
+    <string name="your_spark_will_appear_here">Your spark will appear here 😊</string>
+    <string name="Reset">Reset🔄</string>
+</resources>
