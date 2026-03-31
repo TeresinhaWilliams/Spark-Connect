@@ -24,7 +24,7 @@ Kotlin allows my app to be protected against unknown errors.
 
 Video submission Link:https://drive.google.com/file/d/1R1JqYDxDjNCxTyklB4j31zDCAkRVFEDP/view?usp=sharing
 
-Github repo
+Github repo link : https://github.com/TeresinhaWilliams/Spark-Connect
 
 
 
