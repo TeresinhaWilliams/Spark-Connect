@@ -21,3 +21,16 @@ My project makes use of maintainability, building that is automated and version 
 
 If the user enters the incorrect input a message knows as fallback appears.
 Kotlin allows my app to be protected against unknown errors.
+
+Video submission Link:https://drive.google.com/file/d/1R1JqYDxDjNCxTyklB4j31zDCAkRVFEDP/view?usp=sharing
+
+Github repo
+
+
+
+References
+GitHub. (2025). Build software better, together. [online] Available at: https://github.com/dashboard [Accessed 31 Mar. 2026].
+Android Developers. (2025). Download Android Studio & App Tools - Android Developers. [online] Available at: https://developer.android.com/studio [Accessed 31 Mar. 2026].
+
+‌
+‌
