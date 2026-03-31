@@ -14,6 +14,11 @@ It makes your life easier.
 
 In order for my app to run seamless and remain consistent I needed to do more research on how to use Github and deploy as well as debug my app.
 
+<img width="1785" height="249" alt="Screenshot 2026-03-28 205633" src="https://github.com/user-attachments/assets/d6c46262-22cc-4414-88b0-73aabf74b812" />
+<img width="1786" height="307" alt="Screenshot 2026-03-28 205711" src="https://github.com/user-attachments/assets/e13b03ee-67d2-4c5d-b902-b94080d91b31" />
+
+<img width="519" height="206" alt="Screenshot 2026-03-31 211207" src="https://github.com/user-attachments/assets/54961514-0e74-43ce-bbbf-d487a5922dfb" />
+
 My project makes use of maintainability, building that is automated and version control which is found in Github.
 
 
