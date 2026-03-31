@@ -8,6 +8,8 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import android.util.Log
+
 
 // MainActivity is the entry point of the app
 class MainActivity : AppCompatActivity() {
@@ -32,6 +34,15 @@ class MainActivity : AppCompatActivity() {
             // Get the user's input from the EditText
             // trim() removes extra spaces and lowercase() standardises input
             val time = timeInput.text.toString().trim().lowercase()
+            // This log records what the user typed for your manual testing report
+            Log.d("SparkManualTest", "User input captured: $time")
+
+// Adding the motivation/error check required by your assignment
+            if (time.isEmpty()) {
+                Log.w("SparkManualTest", "Test Failed: Input was empty")
+                resultText.text = "Don't be shy! Type 'morning' or 'evening' to find your spark. ✨"
+                return@setOnClickListener
+            }
 
             /*
              The when statement checks the user's input
